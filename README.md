@@ -47,7 +47,7 @@ python manage.py runserver
 
 ### Frontend Setup (React)
 ```bash
-npm create vite@latest # Create react file
+npm create vite@latest # to create react project
 cd frontend  # Navigate to the frontend folder
 npm install  # Install dependencies
 npm start    # Start the React app
