@@ -32,7 +32,7 @@ This project is a **web-based platform** that allows users to compare prices of 
 ```bash
 # Clone the repository
 git clone https://github.com/your-repo-url.git
-cd your-project-folder
+cd project-folder
 
 # Create and activate a virtual environment
 python -m venv venv
