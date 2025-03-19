@@ -16,11 +16,12 @@ function Navbar() {
           <div className="flex items-center ">
             <Link to="/" className=" items-center">
               <span className="text-2xl font-bold text-primary">
-                <img
+                {/* <img
                   src="logo.png"
                   alt=""
                   className="w-[200px] bord er-2 border-amber-900"
-                />
+                /> */}
+                DealHunt
               </span>
             </Link>
             <nav className="hidden md:ml-8 md:flex md:space-x-8 bor der-2 border-amber-900">
